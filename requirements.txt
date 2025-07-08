@@ -1,2 +1,2 @@
 egttools==0.1.12
-pickle=4.0
+pickle==4.0
